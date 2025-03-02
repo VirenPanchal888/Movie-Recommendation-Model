@@ -1,9 +1,9 @@
 **🔴 REC - Recommendation entertainment Companion** 
-*AI-Powered Movie Recommendation & Prediction*   
+*[AI-Powered Movie Recommendation & Prediction*]   
 https://preview--cinegenius-sentiment-scout.lovable.app/
 
 
-Dot REC is an advanced, AI-driven movie recommendation system that uses deep learning, transformers, sentiment analysis, speech recognition, and real-time streaming APIs to provide highly personalized movie suggestions. Designed to evolve dynamically with user preferences, REC offers an interactive and emotion-based movie discovery experience.
+**🔴REC** is an advanced, AI-driven movie recommendation system that uses deep learning, transformers, sentiment analysis, speech recognition, and real-time streaming APIs to provide highly personalized movie suggestions. Designed to evolve dynamically with user preferences, REC offers an interactive and emotion-based movie discovery experience.
 
 The project started as a prototype in Google Colab, where I manually built a dataset and trained machine learning models like Decision Trees and XGBoost for basic sentiment-based recommendations. However, this approach lacked scalability and automation. I started this project with no prior experience in full-stack development, but my passion for AI and automation motivated me to push beyond my limits. As i mentioned, I initially built the core logic in Google Colab, I realized that deploying an AI-powered movie recommendation system required full-stack development skills, including backend APIs, frontend UI, cloud deployment, and database management—areas where I had little to no prior expertise.
 
