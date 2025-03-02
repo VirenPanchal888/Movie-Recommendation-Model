@@ -1,4 +1,7 @@
-**🔴 REC - Recommendation entertainment Companion** *AI-Powered Movie Recommendation & Prediction*   https://preview--cinegenius-sentiment-scout.lovable.app/
+**🔴 REC - Recommendation entertainment Companion** 
+*AI-Powered Movie Recommendation & Prediction*   
+https://preview--cinegenius-sentiment-scout.lovable.app/
+
 
 Dot REC is an advanced, AI-driven movie recommendation system that uses deep learning, transformers, sentiment analysis, speech recognition, and real-time streaming APIs to provide highly personalized movie suggestions. Designed to evolve dynamically with user preferences, REC offers an interactive and emotion-based movie discovery experience.
 
