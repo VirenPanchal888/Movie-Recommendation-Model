@@ -28,6 +28,7 @@ By fetching the source code and customizing it with desired technologies, develo
 
 **NOTE**: 
 **Project Status: Still in Development**
+
 **🔴REC** is an ongoing project, and I am actively working on enhancing its features, optimizing AI models, and improving deployment. While the core functionality is already implemented, I am still expanding the system, integrating new technologies, and refining the UI/UX for a better experience.
 
 Some upcoming improvements include:
