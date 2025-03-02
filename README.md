@@ -13,7 +13,7 @@ As the project expanded, I moved it to Replit.AI to develop and deploy a full-sc
 
 The system is designing to be cloud-scalable, self-learning, and continuously evolving, making it adaptable for various entertainment platforms. Users can search for movies via voice commands, upload movie posters for AI-based recognition, and get sentiment-based recommendations based on their emotions. The backend is powered by Flask & FastAPI, while the frontend is being developed with Gradio and React.js for a smooth and interactive experience. Additionally, deep reinforcement learning is being explored to allow AI to learn from user behavior and refine recommendations over time.
 
-Looking ahead, REC aims to integrate augmented reality (AR) and virtual reality (VR), enabling users to experience virtual movie previews before watching. Future plans include AI-generated personalized trailers, an AI-powered script generator, and integration into the Metaverse for virtual movie nights.
+Looking ahead, **🔴REC** aims to integrate augmented reality (AR) and virtual reality (VR), enabling users to experience virtual movie previews before watching. Future plans include AI-generated personalized trailers, an AI-powered script generator, and integration into the Metaverse for virtual movie nights.
 
 To deploy REC, users can clone the repository, install dependencies, and run the Flask-based AI movie recommendation API. The AI chatbot and recommendation model are fully functional, and contributions from the open-source community are encouraged. The project is licensed under MIT, and developers can fork the repository to add new features.
 
@@ -25,3 +25,16 @@ Web App Development – Expand UI with React.js, Next.js, or Vue.js
 Serverless Backend – Deploy on AWS Lambda or Google Cloud Functions
 AI-Driven Movie Assistant – Integrate with Siri, Google Assistant, or Alexa
 By fetching the source code and customizing it with desired technologies, developers can turn REC into a real-world entertainment platform, integrating features like AR movie previews, AI-generated trailers, and smart home compatibility for an immersive cinematic experience. 🎬🚀
+
+**NOTE**: 
+**Project Status: Still in Development**
+**🔴REC** is an ongoing project, and I am actively working on enhancing its features, optimizing AI models, and improving deployment. While the core functionality is already implemented, I am still expanding the system, integrating new technologies, and refining the UI/UX for a better experience.
+
+Some upcoming improvements include:
+✅ Full cloud deployment for real-world accessibility
+✅ Optimized AI recommendations with reinforcement learning
+✅ Advanced chatbot integration for seamless conversations
+✅ Mobile app version (Android & iOS) using AI-powered development tools
+✅ Scalability improvements to handle larger datasets and real-time API calls
+
+This project is continuously evolving, and new updates will be pushed as development progresses. Contributions, feedback, and collaboration are always welcome! If you have ideas or would like to help, feel free to open an issue or contribute to the repository.😊
