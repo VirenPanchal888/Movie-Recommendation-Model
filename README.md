@@ -2,8 +2,8 @@
 *[AI-Powered Movie Recommendation & Prediction*]*   
 https://preview--cinegenius-sentiment-scout.lovable.app/
 
-*This is a blueprint of the project, showcasing a visual representation of the application's GUI and overall user experience. It serves as a prototype of how the app will function and look in the future. The full-fledged application will be developed as a cloud-based system on Replit, ensuring scalability, real-time data processing, and seamless accessibility.
-The final version will incorporate advanced AI-powered features, real-time analytics, and an optimized user experience with a modern, interactive UI. It will also include secure cloud storage, multi-platform support, and API integrations for enhanced functionality. The development process will focus on ensuring a robust backend, high-speed performance, and seamless user interactions.*
+*This blueprint represents the future vision of the application, outlining the expected GUI, features, and user experience. It serves as a prototype, demonstrating how the final product will function with smooth navigation, dynamic interactions, and real-time capabilities.
+The full-scale application will be cloud-based and developed on Replit, ensuring scalability, seamless accessibility, and high-performance processing. Advanced AI-driven features will be integrated, including real-time analytics, personalized recommendations, secure cloud storage, and multi-platform compatibility. With an emphasis on modern UI/UX, enhanced security, and efficient backend architecture, this project aims to deliver a fully interactive, data-driven, and future-ready application.*
 
 
 
