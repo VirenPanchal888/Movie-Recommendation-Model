@@ -1,5 +1,5 @@
 **🔴 REC - Recommendation entertainment Companion** 
-*[AI-Powered Movie Recommendation & Prediction*]   
+*[AI-Powered Movie Recommendation & Prediction*]*   
 https://preview--cinegenius-sentiment-scout.lovable.app/
 
 
